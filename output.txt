@@ -1,0 +1,204 @@
+
+Running with the file keys_100.txt
+
+Minimum after extracting 1 times: 604.00
+Selected random node: 16830.00
+After reducing it's key by 5: 16825.00
+Minimum after extracting 2 times: 1601.00
+Selected random node: 1731.00
+After reducing it's key by 5: 1726.00
+Minimum after extracting 3 times: 1726.00
+Selected random node: 45784.00
+After reducing it's key by 5: 45779.00
+Minimum after extracting 4 times: 1795.00
+Selected random node: 40005.00
+After reducing it's key by 5: 40000.00
+Minimum after extracting 5 times: 2317.00
+Selected random node: 5953.00
+After reducing it's key by 5: 5948.00
+Minimum after extracting 6 times: 2703.00
+Selected random node: 41476.00
+After reducing it's key by 5: 41471.00
+Minimum after extracting 7 times: 3796.00
+Selected random node: 5948.00
+After reducing it's key by 5: 5943.00
+Minimum after extracting 8 times: 4863.00
+Selected random node: 34720.00
+After reducing it's key by 5: 34715.00
+Minimum after extracting 9 times: 4886.00
+Selected random node: 9344.00
+After reducing it's key by 5: 9339.00
+Minimum after extracting 10 times: 5943.00
+Selected random node: 6931.00
+After reducing it's key by 5: 6926.00
+Minimum after extracting 11 times: 6358.00
+Selected random node: 24896.00
+After reducing it's key by 5: 24891.00
+Minimum after extracting 12 times: 6492.00
+Selected random node: 13845.00
+After reducing it's key by 5: 13840.00
+Minimum after extracting 13 times: 6926.00
+Selected random node: 47848.00
+After reducing it's key by 5: 47843.00
+Minimum after extracting 14 times: 7101.00
+Selected random node: 21088.00
+After reducing it's key by 5: 21083.00
+Minimum after extracting 15 times: 7464.00
+Selected random node: 7888.00
+After reducing it's key by 5: 7883.00
+Minimum after extracting 16 times: 7883.00
+Selected random node: 8131.00
+After reducing it's key by 5: 8126.00
+Minimum after extracting 17 times: 8126.00
+Selected random node: 34715.00
+After reducing it's key by 5: 34710.00
+Minimum after extracting 18 times: 8563.00
+Selected random node: 14275.00
+After reducing it's key by 5: 14270.00
+Minimum after extracting 19 times: 9339.00
+Selected random node: 24472.00
+After reducing it's key by 5: 24467.00
+Minimum after extracting 20 times: 9823.00
+Selected random node: 37521.00
+After reducing it's key by 5: 37516.00
+
+Total time for Extract-Min: 10 microseconds
+Total time for Decrease-Key: 577 nanoseconds
+
+
+
+Running with the file keys_1000.txt
+
+Minimum after extracting 1 times: 36.00
+Selected random node: 3650.00
+After reducing it's key by 5: 3645.00
+Minimum after extracting 2 times: 68.00
+Selected random node: 35583.00
+After reducing it's key by 5: 35578.00
+Minimum after extracting 3 times: 242.00
+Selected random node: 779.00
+After reducing it's key by 5: 774.00
+Minimum after extracting 4 times: 344.00
+Selected random node: 3386.00
+After reducing it's key by 5: 3381.00
+Minimum after extracting 5 times: 395.00
+Selected random node: 3816.00
+After reducing it's key by 5: 3811.00
+Minimum after extracting 6 times: 520.00
+Selected random node: 28700.00
+After reducing it's key by 5: 28695.00
+Minimum after extracting 7 times: 666.00
+Selected random node: 2297.00
+After reducing it's key by 5: 2292.00
+Minimum after extracting 8 times: 774.00
+Selected random node: 980.00
+After reducing it's key by 5: 975.00
+Minimum after extracting 9 times: 781.00
+Selected random node: 1438.00
+After reducing it's key by 5: 1433.00
+Minimum after extracting 10 times: 850.00
+Selected random node: 902.00
+After reducing it's key by 5: 897.00
+Minimum after extracting 11 times: 897.00
+Selected random node: 19018.00
+After reducing it's key by 5: 19013.00
+Minimum after extracting 12 times: 975.00
+Selected random node: 5988.00
+After reducing it's key by 5: 5983.00
+Minimum after extracting 13 times: 1019.00
+Selected random node: 42675.00
+After reducing it's key by 5: 42670.00
+Minimum after extracting 14 times: 1073.00
+Selected random node: 44391.00
+After reducing it's key by 5: 44386.00
+Minimum after extracting 15 times: 1129.00
+Selected random node: 1632.00
+After reducing it's key by 5: 1627.00
+Minimum after extracting 16 times: 1212.00
+Selected random node: 6149.00
+After reducing it's key by 5: 6144.00
+Minimum after extracting 17 times: 1244.00
+Selected random node: 1467.00
+After reducing it's key by 5: 1462.00
+Minimum after extracting 18 times: 1257.00
+Selected random node: 46402.00
+After reducing it's key by 5: 46397.00
+Minimum after extracting 19 times: 1433.00
+Selected random node: 24406.00
+After reducing it's key by 5: 24401.00
+Minimum after extracting 20 times: 1462.00
+Selected random node: 7787.00
+After reducing it's key by 5: 7782.00
+
+Total time for Extract-Min: 60 microseconds
+Total time for Decrease-Key: 585 nanoseconds
+
+
+
+Running with the file keys_10000.txt
+
+Minimum after extracting 1 times: 13.00
+Selected random node: 24495.00
+After reducing it's key by 5: 24490.00
+Minimum after extracting 2 times: 14.00
+Selected random node: 22.00
+After reducing it's key by 5: 17.00
+Minimum after extracting 3 times: 17.00
+Selected random node: 179.00
+After reducing it's key by 5: 174.00
+Minimum after extracting 4 times: 21.00
+Selected random node: 41.00
+After reducing it's key by 5: 36.00
+Minimum after extracting 5 times: 26.00
+Selected random node: 46.00
+After reducing it's key by 5: 41.00
+Minimum after extracting 6 times: 27.00
+Selected random node: 120.00
+After reducing it's key by 5: 115.00
+Minimum after extracting 7 times: 36.00
+Selected random node: 49380.00
+After reducing it's key by 5: 49375.00
+Minimum after extracting 8 times: 41.00
+Selected random node: 8020.00
+After reducing it's key by 5: 8015.00
+Minimum after extracting 9 times: 43.00
+Selected random node: 55.00
+After reducing it's key by 5: 50.00
+Minimum after extracting 10 times: 50.00
+Selected random node: 8849.00
+After reducing it's key by 5: 8844.00
+Minimum after extracting 11 times: 57.00
+Selected random node: 189.00
+After reducing it's key by 5: 184.00
+Minimum after extracting 12 times: 59.00
+Selected random node: 134.00
+After reducing it's key by 5: 129.00
+Minimum after extracting 13 times: 66.00
+Selected random node: 18059.00
+After reducing it's key by 5: 18054.00
+Minimum after extracting 14 times: 70.00
+Selected random node: 3563.00
+After reducing it's key by 5: 3558.00
+Minimum after extracting 15 times: 71.00
+Selected random node: 37512.00
+After reducing it's key by 5: 37507.00
+Minimum after extracting 16 times: 75.00
+Selected random node: 115.00
+After reducing it's key by 5: 110.00
+Minimum after extracting 17 times: 76.00
+Selected random node: 161.00
+After reducing it's key by 5: 156.00
+Minimum after extracting 18 times: 77.00
+Selected random node: 14424.00
+After reducing it's key by 5: 14419.00
+Minimum after extracting 19 times: 78.00
+Selected random node: 32693.00
+After reducing it's key by 5: 32688.00
+Minimum after extracting 20 times: 80.00
+Selected random node: 97.00
+After reducing it's key by 5: 92.00
+
+Total time for Extract-Min: 195 microseconds
+Total time for Decrease-Key: 602 nanoseconds
+
+
